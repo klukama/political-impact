@@ -1,6 +1,7 @@
 # Political Impact
 
-[![GitHub license](https://img.shields.io/badge/license-EUPL-blue.svg)](https://raw.githubusercontent.com/klukama/political-impact/main/LICENSE)
+![GitHub license](https://img.shields.io/github/license/klukama/political-impact.svg?style=for-the-badge)
+![Made with](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
 
 The aim of this project is to analyse data collected from various sources.
 1. The stenographic protocolls from the Austrian Parliament (National Council, "Nationalrat")
